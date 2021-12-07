@@ -16,3 +16,12 @@ Then, enter the link and the Output File Name of your choice.
 A new folder called **Output** will be generated in the same directory as your python file, which would contain your CSV file(If the folder doesn't already exist).
 
 ****NOTE:**** By default, the results of all pages will be taken into the CSV.
+
+Some sample URLs: 
+```
+https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;team=6;template=results;type=team;view=results
+```
+
+```
+https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;opposition=5;spanmin1=15+Mar+1995;spanval1=span;team=6;template=results;type=bowling
+```
